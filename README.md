@@ -36,8 +36,9 @@ Built with **Jetpack Compose**, providing a smooth UX and beautiful Material 3 d
 - Save and share generated codes
 
 ### 🎨 Customization
-- Change QR color + background color
-- Add a **logo** into QR codes
+- Dynamic Theming (Material You)
+- Change QR color & background color
+- Add a **logo or Image** into QR codes
 - **3 customizable widgets** (Home Screen)
 - **Quick Tile (Quick Settings)** scanner action
 - **Startup behavior settings**
