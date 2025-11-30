@@ -72,32 +72,32 @@ Built with **Jetpack Compose**, providing a smooth UX and beautiful Material 3 d
 ### 🏠 Home & Themes
 | Light Mode | Dark Mode                   |
 |------------|-----------------------------|
-| ![](assets/store/en/1.jpeg) | ![](assets/store/en/8.jpeg) |
+| <img src="assets/store/en/1.jpeg" width="250"/> | <img src="assets/store/en/8.jpeg" width="250"/> |
 
 ---
 
 ### 📡 QR Scanning
 | Scanner View                | Scan Result                 |
 |-----------------------------|-----------------------------|
-| ![](assets/store/en/2.jpeg) | ![](assets/store/en/3.jpeg) |
+| <img src="assets/store/en/2.jpeg" width="250"/> | <img src="assets/store/en/3.jpeg" width="250"/> |
 
 ---
 
 ### 🧾 QR Code Generation
 | Type Selection              | Color & Logo Picker         |
 |-----------------------------|-----------------------------|
-| ![](assets/store/en/4.jpeg) | ![](assets/store/en/7.jpeg) |
+| <img src="assets/store/en/4.jpeg" width="250"/> | <img src="assets/store/en/7.jpeg" width="250"/> |
 
 | Create & Share              |
 |-----------------------------|
-| ![](assets/store/en/5.jpeg) |
+| <img src="assets/store/en/5.jpeg" width="250"/> |
 
 ---
 
 ### 📚 History & Saved Codes
 | History                     |
 |-----------------------------|
-| ![](assets/store/en/6.jpeg) |
+| <img src="assets/store/en/6.jpeg" width="250"/> |
 
 ---
 
