@@ -39,7 +39,7 @@ Built with **Jetpack Compose**, providing a smooth UX and beautiful Material 3 d
 ### 🎨 Customization
 - Dynamic Theming (Material You)
 - Change QR color & background color
-- Add a **logo or Image** into QR codes
+- Add a **logo, emoji or image** into QR codes
 - **3 customizable widgets** (Home Screen)
 - **Quick Tile (Quick Settings)** scanner action
 - **Startup behavior settings**
@@ -131,7 +131,6 @@ The codebase is organized into distinct, domain-focused layers, clearly separati
 
 - 🟦 Gradient QR colors & backgrounds
 - 🟦 QR templates (business cards, events, stickers)
-- 🟦 Add emojis & decorative icons
 - 🟦 Tag & filter QR items
 
 ---
