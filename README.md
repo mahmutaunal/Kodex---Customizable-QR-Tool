@@ -34,6 +34,7 @@ Built with **Jetpack Compose**, providing a smooth UX and beautiful Material 3 d
 - Scan using camera or images from gallery
 - Support for **AES-encrypted QR codes**
 - Save and share generated codes
+- Smart Actions — Context-aware one-tap actions available directly from History.
 
 ### 🎨 Customization
 - Dynamic Theming (Material You)
