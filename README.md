@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ic_launcher_kodex/logo.png" width="120" />
+  <img src="assets/ic_launcher_kodex/logo_new.png" width="120" />
 </p>
 
 <h1 align="center">Kodex – QR Code Scanner & Generator</h1>
