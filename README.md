@@ -130,7 +130,6 @@ The codebase is organized into distinct, domain-focused layers, clearly separati
 ## 🛣️ Roadmap
 
 - 🟦 Gradient QR colors & backgrounds
-- 🟦 QR templates (business cards, events, stickers)
 - 🟦 Tag & filter QR items
 
 ---
