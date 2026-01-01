@@ -75,36 +75,36 @@ Built with **Jetpack Compose**, providing a smooth UX and beautiful Material 3 d
 ### 🏠 Home & Themes
 | Light Mode | Dark Mode                   |
 |------------|-----------------------------|
-| <img src="assets/store/en/1.jpeg" width="250"/> | <img src="assets/store/en/8.jpeg" width="250"/> |
+| <img src="assets/screenshots/en/1.png" width="250"/> | <img src="assets/screenshots/en/8.png" width="250"/> |
 
 ---
 
 ### 📡 QR Scanning
 | Scanner View                | Scan Result                 |
 |-----------------------------|-----------------------------|
-| <img src="assets/store/en/2.jpeg" width="250"/> | <img src="assets/store/en/2.jpeg" width="250"/> |
+| <img src="assets/screenshots/en/2.png" width="250"/> | <img src="assets/screenshots/en/2.png" width="250"/> |
 
 ---
 
 ### 🧾 QR Code Generation
 | Type Selection              | Color & Logo Picker         |
 |-----------------------------|-----------------------------|
-| <img src="assets/store/en/4.jpeg" width="250"/> | <img src="assets/store/en/7.jpeg" width="250"/> |
+| <img src="assets/screenshots/en/4.png" width="250"/> | <img src="assets/screenshots/en/7.png" width="250"/> |
 
 | Create & Share              | Create & Share              |
 |-----------------------------|-----------------------------|
-| <img src="assets/store/en/5.jpeg" width="250"/> | <img src="assets/store/en/9.jpeg" width="250"/> |
+| <img src="assets/screenshots/en/5.png" width="250"/> | <img src="assets/screenshots/en/9.png" width="250"/> |
 
 ---
 
 ### 📚 History & Saved Codes
 | History                     | History                     |
 |-----------------------------|-----------------------------|
-| <img src="assets/store/en/6.jpeg" width="250"/> | <img src="assets/store/en/10.jpeg" width="250"/> |
+| <img src="assets/screenshots/en/6.png" width="250"/> | <img src="assets/screenshots/en/10.png" width="250"/> |
 
 | History                     |
 |-----------------------------|
-| <img src="assets/store/en/11.jpeg" width="250"/> |
+| <img src="assets/screenshots/en/11.png" width="250"/> |
 
 ---
 
