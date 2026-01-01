@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ic_launcher_kodex/logo_new.png" width="120" />
+  <img src="assets/logo.png" width="120" />
 </p>
 
 <h1 align="center">Kodex – QR Code Scanner & Generator</h1>
@@ -82,7 +82,7 @@ Built with **Jetpack Compose**, providing a smooth UX and beautiful Material 3 d
 ### 📡 QR Scanning
 | Scanner View                | Scan Result                 |
 |-----------------------------|-----------------------------|
-| <img src="assets/store/en/2.jpeg" width="250"/> | <img src="assets/store/en/3.jpeg" width="250"/> |
+| <img src="assets/store/en/2.jpeg" width="250"/> | <img src="assets/store/en/2.jpeg" width="250"/> |
 
 ---
 
@@ -91,16 +91,20 @@ Built with **Jetpack Compose**, providing a smooth UX and beautiful Material 3 d
 |-----------------------------|-----------------------------|
 | <img src="assets/store/en/4.jpeg" width="250"/> | <img src="assets/store/en/7.jpeg" width="250"/> |
 
-| Create & Share              |
-|-----------------------------|
-| <img src="assets/store/en/5.jpeg" width="250"/> |
+| Create & Share              | Create & Share              |
+|-----------------------------|-----------------------------|
+| <img src="assets/store/en/5.jpeg" width="250"/> | <img src="assets/store/en/9.jpeg" width="250"/> |
 
 ---
 
 ### 📚 History & Saved Codes
+| History                     | History                     |
+|-----------------------------|-----------------------------|
+| <img src="assets/store/en/6.jpeg" width="250"/> | <img src="assets/store/en/10.jpeg" width="250"/> |
+
 | History                     |
 |-----------------------------|
-| <img src="assets/store/en/6.jpeg" width="250"/> |
+| <img src="assets/store/en/11.jpeg" width="250"/> |
 
 ---
 
