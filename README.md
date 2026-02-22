@@ -48,6 +48,13 @@ Built with **Jetpack Compose**, providing a smooth UX and beautiful Material 3 d
     - Continue from last screen
     - Always open home screen
     - Open a specific screen on launch
+ 
+#### 🗂 Folder Management
+- Create custom folders to organize your QR codes
+- Move single or multiple QR codes into folders
+- Built-in system folders (All, Favorites, Scanned, Generated)
+- Smart sorting based on last edited
+- Quick access and smooth horizontal folder navigation
 
 ### 📦 Data & Storage
 - Automatic scan history (Room Database)
