@@ -60,6 +60,10 @@ Built with **Jetpack Compose**, providing a smooth UX and beautiful Material 3 d
 - Automatic scan history (Room Database)
 - Local storage only — works **offline**
 - No personal data tracking
+- **Backup & Restore support (.kodex file format)**
+    - Export all your QR data into a **.kodex backup file**
+    - Restore backups anytime from local storage
+    - Easy migration between devices
 
 ---
 
